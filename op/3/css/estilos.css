@@ -1,0 +1,223 @@
+html
+{
+box-sizing: border-box;
+}
+*, *:before, *:after 
+{
+box-sizing: inherit;
+}
+*
+{
+margin: 0;
+padding: 0;
+}
+body
+{
+background-color: #eeeeee;
+}
+.contenido
+{
+width: 1100px;
+margin: 0 auto;
+}
+h2
+{
+font-family: 'Comfortaa', sans-serif;
+color: #353535;
+text-align: center;
+}
+.hero
+{
+text-transform: uppercase;
+text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 4.0em;
+font-family: 'Comfortaa', sans-serif;
+}
+
+.peque
+{
+font-size: 0.5em;
+color: #30aafc;
+font-weight: bold;
+}
+table.one
+{
+margin: 0 auto;
+}
+table.one td
+{
+padding-left: 40px;
+padding-right: 40px;
+text-align: center;
+}
+label
+{
+font-family: 'Comfortaa', sans-serif;
+font-size: 2.0em;
+color: #353535;
+}
+.as
+{
+margin-bottom: -30px;
+}
+hr.me
+{
+margin: 10px auto -9px auto;
+width: 50%;
+border: 3px solid #30aafc;
+}
+input.Agg
+{
+width: 20%;
+height: 60px;
+font-size: 3.0em;
+font-family: 'Comfortaa', sans-serif;
+text-align: center;
+background-color: #eeeeee;
+border: 2px solid #353535;
+}
+.centro
+{
+float: none;
+text-align: center;
+margin-bottom: 40px;
+}
+.cal
+{
+font-family: 'Comfortaa', sans-serif;
+font-size: 1.5em;
+background-color: transparent;
+border-radius: 20px;
+transition: all .4s ease;
+color: #353535;
+text-decoration: none;
+margin-bottom: 20px;
+}
+.cal:hover
+{
+border: 2px solid #30aafc;
+background-color: #30aafc;
+color: #eeeeee;
+padding: 5px 15px;
+}
+h1
+{
+font-family: 'Comfortaa', sans-serif;
+text-align: center;
+margin: 0 auto 0 auto;
+font-size: 1.3em;
+margin-bottom: 20px;
+}
+h1 a
+{
+text-decoration: none;
+}
+p
+{
+font-family: 'Comfortaa', sans-serif;
+text-align: center;
+margin: 0 auto 0 auto;
+font-size: .9em;
+margin-bottom: 10px;
+}
+.pre1
+{
+overflow:auto; 
+background: #fff; 
+text-align: left; 
+font-size: 1.5em;
+padding-bottom: 20px;
+}
+.adapt
+{
+white-space:pre-wrap;
+}
+.pri
+{
+font-family: 'Comfortaa', sans-serif;
+text-align: center;
+color: #f7721a;
+font-size: 1.7em;
+}
+.seg
+{
+font-family: 'Comfortaa', sans-serif;
+text-align: center;
+color: #0b9912;
+font-size: 1.7em;
+}
+table.two
+{
+margin: 0 auto;
+}
+table.two td
+{
+padding-left: 65px;
+margin-right: 65px;
+text-align: center;
+}
+h3
+{
+font-family: 'Comfortaa', sans-serif;
+font-size: 2.0em;
+color: #353535;
+font-weight: lighter;
+margin-top: 10px;
+}
+.pri2
+{
+font-family: 'Comfortaa', sans-serif;
+text-align: center;
+color: #f7721a;
+font-size: 4.7em;
+}
+.seg2
+{
+font-family: 'Comfortaa', sans-serif;
+text-align: center;
+color: #0b9912;
+font-size: 4.7em;
+}
+.me1
+{
+margin: -10px auto -20px auto;
+width: 50%;
+border: 3px solid #30aafc;
+}
+.sum
+{
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: center;
+font-size: 30px;
+font-weight: lighter;
+font-size: 2.3em;
+}
+.sum1
+{
+width: 50%;
+font-size: 3.0em;
+margin: 0 auto;
+}
+.por
+{
+font-family: 'Comfortaa', sans-serif;
+color: #353535;
+margin-bottom: -30px;
+}
+.por2
+{
+font-family: 'Comfortaa', sans-serif;
+color: #353535;
+margin-top: -50px;
+}
+h4
+{
+font-family: 'Comfortaa', sans-serif;
+color: #353535;
+font-size: 2.3em;
+margin: 30px 0;
+text-align: center;
+}
